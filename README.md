@@ -1,3 +1,3 @@
 # Movies-DB
 
-##TP SEQUELIZE - Movies Data Base
+## TP SEQUELIZE - Movies Data Base
